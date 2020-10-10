@@ -1,17 +1,16 @@
 def new_hash
-  Hash.new {}
+    Hash.new {}
 end
 
 def my_hash
     my_hash={:name=>"Rakshan"}
-    end
+end
 
 def pioneer
-
-  pioneer={:name=>"Grace Hopper"}
+    pioneer={:name=>"Grace Hopper"}
 end
 
 
 def id_hash_generator(number)
-  # return a hash with a key :id assigned to the provided number
+    hash=
 end
