@@ -3,8 +3,8 @@ def new_hash
 end
 
 def my_hash
-    Profile={name:"Rakshan"}
-end
+    :name=>"Rakshan"
+    end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
