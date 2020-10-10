@@ -3,8 +3,7 @@ def new_hash
 end
 
 def my_hash
-
-  name:"Rakshan"
+    Profile={name:"Rakshan"}
 end
 
 def pioneer
